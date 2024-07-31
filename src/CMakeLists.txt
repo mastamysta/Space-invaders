@@ -1,0 +1,1 @@
+add_executable(space-invaders main.cpp)
